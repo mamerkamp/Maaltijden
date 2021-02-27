@@ -10,4 +10,5 @@ public class MaaltijdenApplication {
 		SpringApplication.run(MaaltijdenApplication.class, args);
 	}
 
+
 }
